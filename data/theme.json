@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 41,
+          "green": 170,
+          "blue": 227,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#29AAE3",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.95,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 30,
+          "green": 127,
+          "blue": 170,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#1e7faa",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.18,
+          "luminancePercent": "18%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.67,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 161,
+          "blue": 228,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#00A1E4",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.31,
+          "luminancePercent": "31%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.22,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 0,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#000000",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0,
+          "luminancePercent": "0%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 21,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 30,
+          "green": 127,
+          "blue": 170,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#1e7faa",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.18,
+          "luminancePercent": "18%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.67,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Arial', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Poppins', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://harwellandcookortho.com/wp-content/uploads/2020/11/15978001_10158135500790714_6546782898155021487_n_727a62df2a9101bbbd664c5c8dc0f32e-1.png",
     "logo_config": {
       "type": "url",
-      "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "variant": "dark",
+      "url": "https://harwellandcookortho.com/wp-content/uploads/2020/11/15978001_10158135500790714_6546782898155021487_n_727a62df2a9101bbbd664c5c8dc0f32e-1.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 722
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#fefefe",
+          "luminosity_percent": 99,
+          "count": 53
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#fdfdfd",
+          "luminosity_percent": 98,
+          "count": 26
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#fcfcfc",
+          "luminosity_percent": 97,
+          "count": 20
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
+          "hex": "#feffff",
+          "luminosity_percent": 100,
+          "count": 10
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#fbfbfb",
+          "luminosity_percent": 96,
+          "count": 8
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#f7fbfd",
+          "luminosity_percent": 96,
+          "count": 7
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#f2f2f2",
+          "luminosity_percent": 89,
+          "count": 6
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#848786",
+          "luminosity_percent": 24,
+          "count": 6
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#f6f6f6",
+          "luminosity_percent": 92,
+          "count": 5
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
-      "is_light": false
+      "dominant_color": "#ffffff",
+      "avg_luminosity": 99.1,
+      "is_light": true
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://harwellandcookortho.com/wp-content/uploads/2021/02/favicon.png"
   }
 }
