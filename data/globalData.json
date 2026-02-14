@@ -1,77 +1,298 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Harwell & Cook Orthodontics",
+  "domain": "harwellandcookortho.com",
+  "email": "info@harwellandcookortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(806) 353-3593",
+    "href": "tel:+18063533593",
+    "aria": "8 0 6, 3 5 3, 3 5 9 3"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Amarillo — Main Office",
       "address": {
-        "street": "9650 Main Street",
+        "street": "3420 Thornton Dr",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Amarillo, TX 79109",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-101.9187268",
+          "latitude": "35.1760867"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(806) 353-3593",
+        "href": "tel:+18063533593"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@harwellandcookortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Sat - Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=3420+Thornton+Dr+Amarillo+TX+79109",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Borger",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "100 N McGee",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Borger, TX 79007",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-101.3942444",
+          "latitude": "35.6599424"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(806) 353-3593",
+        "href": "tel:+18063533593"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=100+N+McGee+Borger+TX+79007",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Childress",
+      "address": {
+        "street": "910 Oak Lane",
+        "suite": "",
+        "city_state": "Childress, TX 79201",
+        "coordinates": {
+          "longitude": "-100.2285986",
+          "latitude": "34.4379547"
+        }
+      },
+      "phone": {
+        "number": "(800) 767-8467",
+        "href": "tel:+18007678467"
+      },
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=910+Oak+Lane+Childress+TX+79201",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Dalhart",
+      "address": {
+        "street": "219 E Texas Blvd",
+        "suite": "",
+        "city_state": "Dalhart, TX 79022",
+        "coordinates": {
+          "longitude": "-102.5214905",
+          "latitude": "36.0524278"
+        }
+      },
+      "phone": {
+        "number": "(806) 353-3593",
+        "href": "tel:+18063533593"
+      },
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=219+E+Texas+Blvd+Dalhart+TX+79022",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Guymon",
+      "address": {
+        "street": "616 N Main St",
+        "suite": "",
+        "city_state": "Guymon, OK 73942",
+        "coordinates": {
+          "longitude": "-101.4816790",
+          "latitude": "36.6841550"
+        }
+      },
+      "phone": {
+        "number": "(800) 767-8467",
+        "href": "tel:+18007678467"
+      },
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=616+N+Main+St+Guymon+OK+73942",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Hereford",
+      "address": {
+        "street": "426 N Main St",
+        "suite": "",
+        "city_state": "Hereford, TX 79045",
+        "coordinates": {
+          "longitude": "-102.4003326",
+          "latitude": "34.8180678"
+        }
+      },
+      "phone": {
+        "number": "(806) 353-3593",
+        "href": "tel:+18063533593"
+      },
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=426+N+Main+St+Hereford+TX+79045",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Pampa",
+      "address": {
+        "street": "908 N Crest",
+        "suite": "",
+        "city_state": "Pampa, TX 79065",
+        "coordinates": {
+          "longitude": "-100.9724834",
+          "latitude": "35.5643010"
+        }
+      },
+      "phone": {
+        "number": "(806) 353-3593",
+        "href": "tel:+18063533593"
+      },
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=908+N+Crest+Pampa+TX+79065",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Perryton",
+      "address": {
+        "street": "19 SE 5th Ave.",
+        "suite": "",
+        "city_state": "Perryton, TX 79070",
+        "coordinates": {
+          "longitude": "-100.8023339",
+          "latitude": "36.3954613"
+        }
+      },
+      "phone": {
+        "number": "(806) 353-3593",
+        "href": "tel:+18063533593"
+      },
+      "email": "info@harwellandcookortho.com",
+      "hours": [
+        {
+          "day": "Mon \t6 Thu",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 AM - 12:00 PM"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=19+SE+5th+Ave+Perryton+TX+79070",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +315,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "3420 Thornton Dr, Amarillo, TX 79109",
+        "href": "https://www.google.com/maps/search/?api=1&query=3420+Thornton+Dr+Amarillo+TX+79109",
+        "label": "View 3420 Thornton Dr, Amarillo, TX 79109 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(806) 353-3593",
+        "href": "tel:+18063533593",
+        "label": "Call (806) 353-3593",
         "new_window": false
       }
     ],
     "announcement": {
-      "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "icon": "phone",
+      "label": "Schedule your first visit",
+      "text": "Schedule a complimentary consultation at any of our Panhandle locations. Call (806) 353-3593 or request a consultation online.",
+      "mobile_text": "Schedule your first visit",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule Your First Visit",
+        "text": "Harwell & Cook Orthodontics offers complimentary new-patient consultations at convenient local offices across the Texas and Oklahoma Panhandles. Call (806) 353-3593 or use our online request form to get started."
       }
     }
   },
@@ -124,14 +345,14 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "anchor",
           "style": "primary",
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
-          "href": "",
-          "path": "/contact",
-          "hash": "#form",
-          "external": false,
+          "href": "https://harwellandcookortho.com/request-a-consultation/",
+          "path": "",
+          "hash": "",
+          "external": true,
           "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
@@ -150,7 +371,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/HarwellandCookOrthodontics/reviews",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/harwellcookortho/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCvoU6UG8JKPr8Ox5BZbrPWw",
         "icon": "youtube"
       }
     ],
@@ -158,12 +387,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Harwell & Cook Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://harwellandcookortho.com/wp-content/uploads/2020/11/15978001_10158135500790714_6546782898155021487_n_727a62df2a9101bbbd664c5c8dc0f32e-1.png",
       "webp": "",
-      "alt": "",
+      "alt": "Harwell & Cook Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +400,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
